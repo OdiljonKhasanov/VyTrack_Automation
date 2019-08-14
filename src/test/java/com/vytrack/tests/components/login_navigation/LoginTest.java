@@ -23,20 +23,31 @@ public class LoginTest extends TestBase {
 
     @Test
     public void loginTest1(){
+        //this is required, otherwise you will get null pointer exception
+        extentLogger = report.createTest("Login as a store manager");
+        //we are instantiating page class inside a tests class,
+        //because for second test, if we run all tests in a row, driver will have null session
         String username = ConfigurationReader.getProperty("storemanagerusername");
         String password = ConfigurationReader.getProperty("storemanagerpassword");
         loginPage.clickRememberMe();
         loginPage.login(username,password);
+        //to verify that Dashboard page opened
+        //Once page name Dashboard displays, means that we are logged successfully
         VYTrackUtils.waitUntilLoaderScreenDisappear(driver);
         //to verify that Dashboard page opened
         //Once page name Dashboard displays, means that we are logged successfully
         Assert.assertEquals(VYTrackUtils.getPageSubTitle(), "Dashboard");
+        extentLogger.pass("VVerified that page name is Dashboard");
     }
 
     @Test
    public void negativeLoginTest1(){
+        extentLogger = report.createTest("Login with wrong credentials");
+        extentLogger.info("Logging with username: wrongusername, and password: wrongpassword");
         loginPage.login("wrongUsername","wrongpassword");
+
         Assert.assertEquals(loginPage.getErrorMessage(),"Invalid user name or password.");
+        extentLogger.pass("Verified that warning message displayed: Invalid user name or password.");
    }
 
    public void rememberMeTest1(){
