@@ -52,4 +52,8 @@ public class SeleniumUtils {
             System.out.println(element.getText()+": is not visible!");
         }
     }
+
+    public static String getScreenshot(String name) {
+        return "";
+    }
 }
