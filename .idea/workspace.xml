@@ -28,8 +28,6 @@
       <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/com/cybertek/tests/OfficeHour_August13/JavaInterviewQuestion.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/com/cybertek/tests/OfficeHour_August13/JavaScriptDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/com/cybertek/tests/OfficeHour_August7/FluentWaitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/regression_tests/ContactsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BriteERPautomation/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../BriteERPautomation/configuration.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OnlineSpring2019Cucumber/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OnlineSpring2019Cucumber/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OnlineSpring2019Cucumber/src/test/java/com/vytrack/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OnlineSpring2019Cucumber/src/test/java/com/vytrack/runner/CukesRunner.java" afterDir="false" />
@@ -37,16 +35,7 @@
       <change beforePath="$PROJECT_DIR$/../OnlineSpring2019Cucumber/src/test/resources/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../OnlineSpring2019Cucumber/src/test/resources/features/fleet/Vehicle contract/VehicleContract.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SeleniumPractice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumPractice/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/com/cybertek/tests/BriteERP/GroupProjectTestPart3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/com/cybertek/tests/BriteERP/GroupProjectTestPart3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/activities/CalendarEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/activities/CalendarEventsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/components/activities/CalendarEventsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/components/activities/CalendarEventsTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/components/login_navigation/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/components/login_navigation/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/SeleniumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/SeleniumUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vytrack/tests/components/login_navigation/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/tests/components/login_navigation/LoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vytrack/utilities/SeleniumUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/utilities/SeleniumUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vytrack/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/utilities/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/regression_tests/ContactsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/tests/regression_tests/ContactsTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
